@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+    background-image: url(space.png)
+}
+
+h1 {
+    color: ghostwhite;
+    text-align: center;
+    
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: ghostwhite;
+}
+
+p {
+    color: ghostwhite;
+    text-align: center;
+}
+
+img {
+    max-height: 50%;
+    max-width: 50%;
+    border-radius: 75%;
+    border-style: dotted;
+}
+
